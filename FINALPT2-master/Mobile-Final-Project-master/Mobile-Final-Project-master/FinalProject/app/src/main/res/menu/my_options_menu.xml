@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="Logout" />
+    <item
+        android:id="@+id/removeFriend"
+        android:orderInCategory="100"
+        android:title="Remove a friend" />
+    <item
+        android:id="@+id/addFriend"
+        android:orderInCategory="100"
+        android:title="Add a friend" />
+
+</menu>
